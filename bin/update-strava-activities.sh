@@ -20,7 +20,7 @@ rm -Rf config/* && mv -f strava-activities-template/config/* config/
 rm -Rf migrations/* && mv -f strava-activities-template/migrations/* migrations/
 rm -Rf public/* && mv -f strava-activities-template/public/* public/
 rm -Rf src/* && mv -f strava-activities-template/src/* src/
-#rm -Rf templates/* && mv -f strava-activities-template/templates/* templates/
+rm -Rf templates/* && mv -f strava-activities-template/templates/* templates/
 mkdir -p .docker && rm -Rf .docker/* && mv -f strava-activities-template/.docker/* .docker/
 # BIN EXECUTABLES
 mv -f strava-activities-template/bin/console bin/console
