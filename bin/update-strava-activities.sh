@@ -10,6 +10,18 @@ rm -f build/html/segment-data-table.json
 rm -f build/charts/chart-yearly-riding-stats.json
 rm -f build/charts/chart-yearly-riding-stats.svg
 
+# Make sure database and migration directories exist
+mkdir -p database
+mkdir -p migrations
+
+# Delete install files
+rm -Rf files/install
+rm -Rf files/maps
+# Delete test suite
+rm -Rf tests
+rm -Rf config/container_test.php
+
+composer install --prefer-dist
 
 # Run migrations.
 rm -Rf database/db.strava-read
