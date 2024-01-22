@@ -3,20 +3,20 @@
          alt="Strava">
 </p>
 
-Since I began cycling `12 years and 5 days` ago on `01-01-2013`,
-I had `241 cycling days`.<br />
-I recorded a total distance of `6 728 km`
+Since I began cycling `12 years and 6 days` ago on `01-01-2013`,
+I had `242 cycling days`.<br />
+I recorded a total distance of `6 744 km`
 (`0.17` trips around the world 🌍 and
 `0.018` trips to the moon 🌕),
 an elevation of `44 467 m`
 (`5.0` times Mount Everest 🏔)
-and a total time of `1w 3d 5h 58m` 🎉
+and a total time of `1w 3d 6h 28m` 🎉
 
 That's a daily average of `2 km`,
 a weekly average of `12 km` and a
 monthly average of `51 km` 🐣
 
-I burned `153107 calories` doing so, that's about `567` pizza slices 🍕
+I burned `153480 calories` doing so, that's about `568` pizza slices 🍕
 
 ---
 
@@ -50,6 +50,19 @@ I burned `153107 calories` doing so, that's about `567` pizza slices 🍕
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/average-speed.svg" width="30" alt="average speed" title="average speed"/></th>
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
+            <tr>
+            <td>21-01-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="30 min Power Zone Endurance Ride with Olivia Amato" title="30 min Power Zone Endurance Ride with Olivia Amato"/>
+<a href="https://www.strava.com/activities/10604202475" title="Kcal: 373 | Gear: GT ">30 min Power Zone Enduranc...</a>
+            </td>
+            <td align="center">16 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">30:00</td>
+            <td align="center">176 <sup><sub>w</sub></sup></td>
+            <td align="center">32.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">34</td>
+        </tr>
             <tr>
             <td>12-01-24</td>
             <td>
@@ -102,19 +115,6 @@ I burned `153107 calories` doing so, that's about `567` pizza slices 🍕
             <td align="center">30.2 <sup><sub>km/h</sub></sup></td>
             <td align="center">n/a</td>
         </tr>
-            <tr>
-            <td>10-01-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="45 min Power Zone Endurance EDM Ride with Ben Alldis" title="45 min Power Zone Endurance EDM Ride with Ben Alldis"/>
-<a href="https://www.strava.com/activities/10534061725" title="Kcal: 650 | Gear: GT ">45 min Power Zone Enduranc...</a>
-            </td>
-            <td align="center">24 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">45:01</td>
-            <td align="center">179 <sup><sub>w</sub></sup></td>
-            <td align="center">32.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">n/a</td>
-        </tr>
         </table>
 <details>
     <summary>Older activities</summary>
@@ -129,6 +129,19 @@ I burned `153107 calories` doing so, that's about `567` pizza slices 🍕
             <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/average-speed.svg" width="30" alt="average speed" title="average speed"/></th>
             <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
         </tr>
+                    <tr>
+                <td>10-01-24</td>
+                <td>
+                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="45 min Power Zone Endurance EDM Ride with Ben Alldis" title="45 min Power Zone Endurance EDM Ride with Ben Alldis"/>
+<a href="https://www.strava.com/activities/10534061725" title="Kcal: 650 | Gear: GT ">45 min Power Zone Enduranc...</a>
+                </td>
+                <td align="center">24 <sup><sub>km</sub></sup></td>
+                <td align="center">0 <sup><sub>m</sub></sup></td>
+                <td align="center">45:01</td>
+                <td align="center">179 <sup><sub>w</sub></sup></td>
+                <td align="center">32.4 <sup><sub>km/h</sub></sup></td>
+                <td align="center">n/a</td>
+            </tr>
                     <tr>
                 <td>09-01-24</td>
                 <td>
@@ -766,19 +779,6 @@ I burned `153107 calories` doing so, that's about `567` pizza slices 🍕
                 <td align="center">33.3 <sup><sub>km/h</sub></sup></td>
                 <td align="center">144</td>
             </tr>
-                    <tr>
-                <td>16-09-23</td>
-                <td>
-                    <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="75 min Power Zone Endurance Ride with Matt Wilpers" title="75 min Power Zone Endurance Ride with Matt Wilpers"/>
-<a href="https://www.strava.com/activities/9863181262" title="Kcal: 1177 | Gear: GT ">75 min Power Zone Enduranc...</a>
-                </td>
-                <td align="center">42 <sup><sub>km</sub></sup></td>
-                <td align="center">0 <sup><sub>m</sub></sup></td>
-                <td align="center">1:15:00</td>
-                <td align="center">191 <sup><sub>w</sub></sup></td>
-                <td align="center">33.6 <sup><sub>km/h</sub></sup></td>
-                <td align="center">158</td>
-            </tr>
             </table>
 </details>
 
@@ -799,10 +799,10 @@ I burned `153107 calories` doing so, that's about `567` pizza slices 🍕
     <tbody>
             <tr>
             <td align="center">January 2024</td>
-            <td align="center">16</td>
-            <td align="center">164 <sup><sub>km</sub></sup></td>
+            <td align="center">17</td>
+            <td align="center">180 <sup><sub>km</sub></sup></td>
             <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">5h 11m</td>
+            <td align="center">5h 41m</td>
             <td align="center">0</td>
         </tr>
             <tr>
@@ -1095,18 +1095,18 @@ I burned `153107 calories` doing so, that's about `567` pizza slices 🍕
     </tr>
     <tr>
         <td align="center"><b>Outside</b></td>
-        <td align="center"><b>442</td>
-        <td align="center"><b>6 728 <sup><sub>km</sub></sup></b></td>
+        <td align="center"><b>443</td>
+        <td align="center"><b>6 744 <sup><sub>km</sub></sup></b></td>
         <td align="center"><b>44 467 <sup><sub>m</sub></sup></b></td>
-        <td align="center"><b>1w 3d 5h 58m</b></td>
+        <td align="center"><b>1w 3d 6h 28m</b></td>
         <td align="center"></td>
     </tr>
     <tr>
         <td align="center"><b>Total</b></td>
-        <td align="center"><b>442</td>
-        <td align="center"><b>6 728 <sup><sub>km</sub></sup></b></td>
+        <td align="center"><b>443</td>
+        <td align="center"><b>6 744 <sup><sub>km</sub></sup></b></td>
         <td align="center"><b>44 467 <sup><sub>m</sub></sup></b></td>
-        <td align="center"><b>1w 3d 5h 58m</b></td>
+        <td align="center"><b>1w 3d 6h 28m</b></td>
         <td align="center"></td>
     </tr>
     </tbody>
@@ -1200,13 +1200,13 @@ I burned `153107 calories` doing so, that's about `567` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Sunday</td>
-            <td align="center">74</td>
+            <td align="center">75</td>
             <td align="center">
                                     23 <sup><sub>km avg</sub></sup> /
-                    1 681 <sup><sub>km total</sub></sup>
+                    1 697 <sup><sub>km total</sub></sup>
                             </td>
             <td align="center">7 398 <sup><sub>m</sub></sup></td>
-            <td align="center">2d 17h 24m</td>
+            <td align="center">2d 17h 54m</td>
             <td align="center">25.7 <sup><sub>km/h</sub></sup></td>
         </tr>
         </tbody>
@@ -1253,13 +1253,13 @@ I burned `153107 calories` doing so, that's about `567` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">Evening (17h - 23h)</td>
-            <td align="center">375</td>
+            <td align="center">376</td>
             <td align="center">
                                     12 <sup><sub>km avg</sub></sup> /
-                    4 660 <sup><sub>km total</sub></sup>
+                    4 676 <sup><sub>km total</sub></sup>
                             </td>
             <td align="center">3 499 <sup><sub>m</sub></sup></td>
-            <td align="center">6d 15h 46m</td>
+            <td align="center">6d 16h 16m</td>
             <td align="center">29.2 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
@@ -1292,13 +1292,13 @@ I burned `153107 calories` doing so, that's about `567` pizza slices 🍕
     <tbody>
             <tr>
             <td align="center">GT</td>
-            <td align="center">439</td>
+            <td align="center">440</td>
             <td align="center">
                                     15 <sup><sub>km avg</sub></sup> /
-                    6 602 <sup><sub>km total</sub></sup>
+                    6 618 <sup><sub>km total</sub></sup>
                             </td>
             <td align="center">43 427 <sup><sub>m</sub></sup></td>
-            <td align="center">1w 3d 5m</td>
+            <td align="center">1w 3d 35m</td>
             <td align="center">27.5 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>
@@ -1454,12 +1454,12 @@ I burned `153107 calories` doing so, that's about `567` pizza slices 🍕
     <tbody>
             <tr>
             <td align="center">2024</td>
-            <td align="center">164 <sup><sub>km</sub></sup></td>
+            <td align="center">180 <sup><sub>km</sub></sup></td>
             <td align="center">
-                                    -3 817 <sup><sub>km</sub></sup>
+                                    -3 801 <sup><sub>km</sub></sup>
                             </td>
             <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">5h 11m</td>
+            <td align="center">5h 41m</td>
         </tr>
             <tr>
             <td align="center">2023</td>
@@ -1589,13 +1589,13 @@ I burned `153107 calories` doing so, that's about `567` pizza slices 🍕
         </tr>
             <tr>
             <td align="center">15 - 30 km</td>
-            <td align="center">137</td>
+            <td align="center">138</td>
             <td align="center">
                                      22 <sup><sub>km avg</sub></sup> /
-                     2 954 <sup><sub>km total</sub></sup>
+                     2 970 <sup><sub>km total</sub></sup>
                             </td>
             <td align="center">5 745 <sup><sub>m</sub></sup></td>
-            <td align="center">4d 1h 6m</td>
+            <td align="center">4d 1h 36m</td>
             <td align="center">30.4 <sup><sub>km/h</sub></sup></td>
         </tr>
             <tr>

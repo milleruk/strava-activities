@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>21-01-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="30 min Power Zone Endurance Ride with Olivia Amato" title="30 min Power Zone Endurance Ride with Olivia Amato"/>
+<a href="https://www.strava.com/activities/10604202475" title="Kcal: 373 | Gear: None ">30 min Power Zone Enduranc...</a>
+            </td>
+            <td align="center">16 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">30:00</td>
+            <td align="center">176 <sup><sub>w</sub></sup></td>
+            <td align="center">32.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">34</td>
+        </tr>
+            <tr>
             <td>12-01-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="10 min 1989 (Taylor&#039;s Version) Cool Down with Sam Yo" title="10 min 1989 (Taylor&#039;s Version) Cool Down with Sam Yo"/>
@@ -59,19 +72,6 @@
             <td align="center">5:00</td>
             <td align="center">146 <sup><sub>w</sub></sup></td>
             <td align="center">30.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">n/a</td>
-        </tr>
-            <tr>
-            <td>10-01-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="45 min Power Zone Endurance EDM Ride with Ben Alldis" title="45 min Power Zone Endurance EDM Ride with Ben Alldis"/>
-<a href="https://www.strava.com/activities/10534061725" title="Kcal: 650 | Gear: None ">45 min Power Zone Enduranc...</a>
-            </td>
-            <td align="center">24 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">45:01</td>
-            <td align="center">179 <sup><sub>w</sub></sup></td>
-            <td align="center">32.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">n/a</td>
         </tr>
                 <tr>
