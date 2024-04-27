@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>26-04-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="30 min Power Zone Endurance Ride with Erik Jäger" title="30 min Power Zone Endurance Ride with Erik Jäger"/>
+<a href="https://www.strava.com/activities/11270774088" title="Kcal: 409 | Gear: None ">30 min Power Zone Enduranc...</a>
+            </td>
+            <td align="center">16 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">30:01</td>
+            <td align="center">167 <sup><sub>w</sub></sup></td>
+            <td align="center">31.8 <sup><sub>km/h</sub></sup></td>
+            <td align="center">n/a</td>
+        </tr>
+            <tr>
             <td>18-04-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="20 min Osnabrück Ride" title="20 min Osnabrück Ride"/>
@@ -59,19 +72,6 @@
             <td align="center">30:00</td>
             <td align="center">127 <sup><sub>w</sub></sup></td>
             <td align="center">28.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">n/a</td>
-        </tr>
-            <tr>
-            <td>06-04-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="10 min P!nk Cool Down Ride with Christine D&#039;Ercole" title="10 min P!nk Cool Down Ride with Christine D&#039;Ercole"/>
-<a href="https://www.strava.com/activities/11122114356" title="Kcal: 91 | Gear: None ">10 min P!nk Cool Down Ride...</a>
-            </td>
-            <td align="center">5 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">10:00</td>
-            <td align="center">112 <sup><sub>w</sub></sup></td>
-            <td align="center">27.2 <sup><sub>km/h</sub></sup></td>
             <td align="center">n/a</td>
         </tr>
                 <tr>
