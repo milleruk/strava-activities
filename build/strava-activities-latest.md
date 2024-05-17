@@ -10,6 +10,19 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>16-05-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="30 min Intervals &amp; Arms Ride with Cody Rigsby" title="30 min Intervals &amp; Arms Ride with Cody Rigsby"/>
+<a href="https://www.strava.com/activities/11427480302" title="Kcal: 355 | Gear: None ">30 min Intervals &amp; Arms Ri...</a>
+            </td>
+            <td align="center">16 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">30:00</td>
+            <td align="center">170 <sup><sub>w</sub></sup></td>
+            <td align="center">31.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">82</td>
+        </tr>
+            <tr>
             <td>07-05-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="30 min Rising Country Ride with Ally Love" title="30 min Rising Country Ride with Ally Love"/>
@@ -59,19 +72,6 @@
             <td align="center">30:00</td>
             <td align="center">173 <sup><sub>w</sub></sup></td>
             <td align="center">32.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">n/a</td>
-        </tr>
-            <tr>
-            <td>26-04-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="30 min Power Zone Endurance Ride with Erik Jäger" title="30 min Power Zone Endurance Ride with Erik Jäger"/>
-<a href="https://www.strava.com/activities/11270774088" title="Kcal: 409 | Gear: None ">30 min Power Zone Enduranc...</a>
-            </td>
-            <td align="center">16 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">30:01</td>
-            <td align="center">167 <sup><sub>w</sub></sup></td>
-            <td align="center">31.8 <sup><sub>km/h</sub></sup></td>
             <td align="center">n/a</td>
         </tr>
                 <tr>
