@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>23-05-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="5 min Cool Down Ride with Charlotte Weidenbach" title="5 min Cool Down Ride with Charlotte Weidenbach"/>
+<a href="https://www.strava.com/activities/11481831047" title="Kcal: 56 | Gear: None ">5 min Cool Down Ride with ...</a>
+            </td>
+            <td align="center">2 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">5:00</td>
+            <td align="center">139 <sup><sub>w</sub></sup></td>
+            <td align="center">29.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">n/a</td>
+        </tr>
+            <tr>
+            <td>23-05-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="20 min German Rock Ride with Charlotte Weidenbach" title="20 min German Rock Ride with Charlotte Weidenbach"/>
+<a href="https://www.strava.com/activities/11481778491" title="Kcal: 305 | Gear: None ">20 min German Rock Ride wi...</a>
+            </td>
+            <td align="center">11 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">20:00</td>
+            <td align="center">188 <sup><sub>w</sub></sup></td>
+            <td align="center">33.3 <sup><sub>km/h</sub></sup></td>
+            <td align="center">n/a</td>
+        </tr>
+            <tr>
             <td>16-05-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="30 min Intervals &amp; Arms Ride with Cody Rigsby" title="30 min Intervals &amp; Arms Ride with Cody Rigsby"/>
@@ -46,32 +72,6 @@
             <td align="center">30:00</td>
             <td align="center">164 <sup><sub>w</sub></sup></td>
             <td align="center">31.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">n/a</td>
-        </tr>
-            <tr>
-            <td>28-04-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="5 min Cool Down Ride with Matt Wilpers" title="5 min Cool Down Ride with Matt Wilpers"/>
-<a href="https://www.strava.com/activities/11286933006" title="Kcal: 21 | Gear: None ">5 min Cool Down Ride with ...</a>
-            </td>
-            <td align="center">2 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">5:00</td>
-            <td align="center">53 <sup><sub>w</sub></sup></td>
-            <td align="center">19.6 <sup><sub>km/h</sub></sup></td>
-            <td align="center">n/a</td>
-        </tr>
-            <tr>
-            <td>28-04-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="30 min Monschau Eifel Ride" title="30 min Monschau Eifel Ride"/>
-<a href="https://www.strava.com/activities/11286896165" title="Kcal: 423 | Gear: None ">30 min Monschau Eifel Ride</a>
-            </td>
-            <td align="center">16 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">30:00</td>
-            <td align="center">173 <sup><sub>w</sub></sup></td>
-            <td align="center">32.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">n/a</td>
         </tr>
                 <tr>
