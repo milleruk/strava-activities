@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>26-05-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="30 min 80s Ride with Sam Yo" title="30 min 80s Ride with Sam Yo"/>
+<a href="https://www.strava.com/activities/11499815753" title="Kcal: 412 | Gear: None ">30 min 80s Ride with Sam Yo</a>
+            </td>
+            <td align="center">16 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">30:00</td>
+            <td align="center">170 <sup><sub>w</sub></sup></td>
+            <td align="center">31.5 <sup><sub>km/h</sub></sup></td>
+            <td align="center">n/a</td>
+        </tr>
+            <tr>
+            <td>26-05-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="5 min Warm Up Ride with Kendall Toole" title="5 min Warm Up Ride with Kendall Toole"/>
+<a href="https://www.strava.com/activities/11499522389" title="Kcal: 46 | Gear: None ">5 min Warm Up Ride with Ke...</a>
+            </td>
+            <td align="center">2 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">5:00</td>
+            <td align="center">115 <sup><sub>w</sub></sup></td>
+            <td align="center">26.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">n/a</td>
+        </tr>
+            <tr>
             <td>23-05-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="5 min Cool Down Ride with Charlotte Weidenbach" title="5 min Cool Down Ride with Charlotte Weidenbach"/>
@@ -47,32 +73,6 @@
             <td align="center">170 <sup><sub>w</sub></sup></td>
             <td align="center">31.4 <sup><sub>km/h</sub></sup></td>
             <td align="center">82</td>
-        </tr>
-            <tr>
-            <td>07-05-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="30 min Rising Country Ride with Ally Love" title="30 min Rising Country Ride with Ally Love"/>
-<a href="https://www.strava.com/activities/11355930037" title="Kcal: 430 | Gear: None ">30 min Rising Country Ride...</a>
-            </td>
-            <td align="center">16 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">30:00</td>
-            <td align="center">175 <sup><sub>w</sub></sup></td>
-            <td align="center">32 <sup><sub>km/h</sub></sup></td>
-            <td align="center">n/a</td>
-        </tr>
-            <tr>
-            <td>29-04-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="30 min Feel Good Ride with Ally Love" title="30 min Feel Good Ride with Ally Love"/>
-<a href="https://www.strava.com/activities/11293931158" title="Kcal: 402 | Gear: None ">30 min Feel Good Ride with...</a>
-            </td>
-            <td align="center">16 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">30:00</td>
-            <td align="center">164 <sup><sub>w</sub></sup></td>
-            <td align="center">31.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">n/a</td>
         </tr>
                 <tr>
             <td colspan="8" align="right"><a href="https://github.com/robiningelbrecht/strava-activities#activities">View all activities</a></td>
