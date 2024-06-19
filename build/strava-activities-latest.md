@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>18-06-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="5 min Cool Down Ride with Hannah Frankson" title="5 min Cool Down Ride with Hannah Frankson"/>
+<a href="https://www.strava.com/activities/11684178223" title="Kcal: 30 | Gear: None ">5 min Cool Down Ride with ...</a>
+            </td>
+            <td align="center">2 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">5:00</td>
+            <td align="center">91 <sup><sub>w</sub></sup></td>
+            <td align="center">24.9 <sup><sub>km/h</sub></sup></td>
+            <td align="center">n/a</td>
+        </tr>
+            <tr>
+            <td>18-06-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="20 min EDM Ride with Hannah Frankson" title="20 min EDM Ride with Hannah Frankson"/>
+<a href="https://www.strava.com/activities/11684143008" title="Kcal: 231 | Gear: None ">20 min EDM Ride with Hanna...</a>
+            </td>
+            <td align="center">11 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">20:00</td>
+            <td align="center">173 <sup><sub>w</sub></sup></td>
+            <td align="center">32.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">n/a</td>
+        </tr>
+            <tr>
             <td>16-06-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="5 min Cool Down Ride with Alex Toussaint" title="5 min Cool Down Ride with Alex Toussaint"/>
@@ -46,32 +72,6 @@
             <td align="center">29:59</td>
             <td align="center">40 <sup><sub>w</sub></sup></td>
             <td align="center">8.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">n/a</td>
-        </tr>
-            <tr>
-            <td>01-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="5 min Cool Down Ride with Emma Lovewell" title="5 min Cool Down Ride with Emma Lovewell"/>
-<a href="https://www.strava.com/activities/11550839387" title="Kcal: 27 | Gear: None ">5 min Cool Down Ride with ...</a>
-            </td>
-            <td align="center">2 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">5:00</td>
-            <td align="center">69 <sup><sub>w</sub></sup></td>
-            <td align="center">22.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">n/a</td>
-        </tr>
-            <tr>
-            <td>01-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="30 min Country Happy Hour Ride with Hannah Corbin" title="30 min Country Happy Hour Ride with Hannah Corbin"/>
-<a href="https://www.strava.com/activities/11550785372" title="Kcal: 424 | Gear: None ">30 min Country Happy Hour ...</a>
-            </td>
-            <td align="center">16 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">30:00</td>
-            <td align="center">175 <sup><sub>w</sub></sup></td>
-            <td align="center">32.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">n/a</td>
         </tr>
                 <tr>
