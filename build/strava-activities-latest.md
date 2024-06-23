@@ -10,6 +10,32 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>22-06-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="5 min Cool Down Ride with Robin Arzón" title="5 min Cool Down Ride with Robin Arzón"/>
+<a href="https://www.strava.com/activities/11715151657" title="Kcal: 45 | Gear: None ">5 min Cool Down Ride with ...</a>
+            </td>
+            <td align="center">2 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">5:00</td>
+            <td align="center">135 <sup><sub>w</sub></sup></td>
+            <td align="center">29.2 <sup><sub>km/h</sub></sup></td>
+            <td align="center">n/a</td>
+        </tr>
+            <tr>
+            <td>22-06-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="45 min 90s Ride with Robin Arzón" title="45 min 90s Ride with Robin Arzón"/>
+<a href="https://www.strava.com/activities/11715115249" title="Kcal: 487 | Gear: None ">45 min 90s Ride with Robin...</a>
+            </td>
+            <td align="center">24 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">45:00</td>
+            <td align="center">162 <sup><sub>w</sub></sup></td>
+            <td align="center">31.4 <sup><sub>km/h</sub></sup></td>
+            <td align="center">n/a</td>
+        </tr>
+            <tr>
             <td>21-06-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Evening Ride with Eli" title="Evening Ride with Eli"/>
@@ -46,32 +72,6 @@
             <td align="center">20:00</td>
             <td align="center">173 <sup><sub>w</sub></sup></td>
             <td align="center">32.1 <sup><sub>km/h</sub></sup></td>
-            <td align="center">n/a</td>
-        </tr>
-            <tr>
-            <td>16-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="5 min Cool Down Ride with Alex Toussaint" title="5 min Cool Down Ride with Alex Toussaint"/>
-<a href="https://www.strava.com/activities/11669113588" title="Kcal: 59 | Gear: None ">5 min Cool Down Ride with ...</a>
-            </td>
-            <td align="center">3 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">5:00</td>
-            <td align="center">147 <sup><sub>w</sub></sup></td>
-            <td align="center">30.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">n/a</td>
-        </tr>
-            <tr>
-            <td>16-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="30 min Father&#039;s Day Ride with Alex Toussaint" title="30 min Father&#039;s Day Ride with Alex Toussaint"/>
-<a href="https://www.strava.com/activities/11669084436" title="Kcal: 372 | Gear: None ">30 min Father&#039;s Day Ride w...</a>
-            </td>
-            <td align="center">15 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">30:00</td>
-            <td align="center">153 <sup><sub>w</sub></sup></td>
-            <td align="center">30.8 <sup><sub>km/h</sub></sup></td>
             <td align="center">n/a</td>
         </tr>
                 <tr>
