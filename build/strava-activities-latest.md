@@ -10,6 +10,58 @@
         <th align="center"><img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/heart-rate.svg" width="30" alt="average heart rate" title="average heart rate"/></th>
     </tr>
             <tr>
+            <td>23-06-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="5 min Cool Down Ride with Kendall Toole" title="5 min Cool Down Ride with Kendall Toole"/>
+<a href="https://www.strava.com/activities/11723488395" title="Kcal: 56 | Gear: None ">5 min Cool Down Ride with ...</a>
+            </td>
+            <td align="center">3 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">5:00</td>
+            <td align="center">169 <sup><sub>w</sub></sup></td>
+            <td align="center">31.7 <sup><sub>km/h</sub></sup></td>
+            <td align="center">n/a</td>
+        </tr>
+            <tr>
+            <td>23-06-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="15 min Kajiado Great Rift Valley Ride" title="15 min Kajiado Great Rift Valley Ride"/>
+<a href="https://www.strava.com/activities/11723447147" title="Kcal: 105 | Gear: None ">15 min Kajiado Great Rift ...</a>
+            </td>
+            <td align="center">7 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">15:00</td>
+            <td align="center">105 <sup><sub>w</sub></sup></td>
+            <td align="center">26.6 <sup><sub>km/h</sub></sup></td>
+            <td align="center">n/a</td>
+        </tr>
+            <tr>
+            <td>23-06-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="5 min Cool Down Ride with Emma Lovewell" title="5 min Cool Down Ride with Emma Lovewell"/>
+<a href="https://www.strava.com/activities/11723376874" title="Kcal: 25 | Gear: None ">5 min Cool Down Ride with ...</a>
+            </td>
+            <td align="center">2 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">5:00</td>
+            <td align="center">76 <sup><sub>w</sub></sup></td>
+            <td align="center">23.1 <sup><sub>km/h</sub></sup></td>
+            <td align="center">n/a</td>
+        </tr>
+            <tr>
+            <td>23-06-24</td>
+            <td>
+                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="45 min 80s Ride with Denis Morton" title="45 min 80s Ride with Denis Morton"/>
+<a href="https://www.strava.com/activities/11723344407" title="Kcal: 444 | Gear: None ">45 min 80s Ride with Denis...</a>
+            </td>
+            <td align="center">23 <sup><sub>km</sub></sup></td>
+            <td align="center">0 <sup><sub>m</sub></sup></td>
+            <td align="center">45:00</td>
+            <td align="center">148 <sup><sub>w</sub></sup></td>
+            <td align="center">30 <sup><sub>km/h</sub></sup></td>
+            <td align="center">n/a</td>
+        </tr>
+            <tr>
             <td>22-06-24</td>
             <td>
                 <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="5 min Cool Down Ride with Robin Arzón" title="5 min Cool Down Ride with Robin Arzón"/>
@@ -20,58 +72,6 @@
             <td align="center">5:00</td>
             <td align="center">135 <sup><sub>w</sub></sup></td>
             <td align="center">29.2 <sup><sub>km/h</sub></sup></td>
-            <td align="center">n/a</td>
-        </tr>
-            <tr>
-            <td>22-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="45 min 90s Ride with Robin Arzón" title="45 min 90s Ride with Robin Arzón"/>
-<a href="https://www.strava.com/activities/11715115249" title="Kcal: 487 | Gear: None ">45 min 90s Ride with Robin...</a>
-            </td>
-            <td align="center">24 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">45:00</td>
-            <td align="center">162 <sup><sub>w</sub></sup></td>
-            <td align="center">31.4 <sup><sub>km/h</sub></sup></td>
-            <td align="center">n/a</td>
-        </tr>
-            <tr>
-            <td>21-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="Evening Ride with Eli" title="Evening Ride with Eli"/>
-<a href="https://www.strava.com/activities/11706428169" title="Kcal: 189 | Gear: None ">Evening Ride with Eli</a>
-            </td>
-            <td align="center">5 <sup><sub>km</sub></sup></td>
-            <td align="center">41 <sup><sub>m</sub></sup></td>
-            <td align="center">32:49</td>
-            <td align="center">74 <sup><sub>w</sub></sup></td>
-            <td align="center">9.7 <sup><sub>km/h</sub></sup></td>
-            <td align="center">105</td>
-        </tr>
-            <tr>
-            <td>18-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="5 min Cool Down Ride with Hannah Frankson" title="5 min Cool Down Ride with Hannah Frankson"/>
-<a href="https://www.strava.com/activities/11684178223" title="Kcal: 30 | Gear: None ">5 min Cool Down Ride with ...</a>
-            </td>
-            <td align="center">2 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">5:00</td>
-            <td align="center">91 <sup><sub>w</sub></sup></td>
-            <td align="center">24.9 <sup><sub>km/h</sub></sup></td>
-            <td align="center">n/a</td>
-        </tr>
-            <tr>
-            <td>18-06-24</td>
-            <td>
-                <img src="https://raw.githubusercontent.com/robiningelbrecht/strava-activities/master/public/activity-ride.svg" width="12" alt="20 min EDM Ride with Hannah Frankson" title="20 min EDM Ride with Hannah Frankson"/>
-<a href="https://www.strava.com/activities/11684143008" title="Kcal: 231 | Gear: None ">20 min EDM Ride with Hanna...</a>
-            </td>
-            <td align="center">11 <sup><sub>km</sub></sup></td>
-            <td align="center">0 <sup><sub>m</sub></sup></td>
-            <td align="center">20:00</td>
-            <td align="center">173 <sup><sub>w</sub></sup></td>
-            <td align="center">32.1 <sup><sub>km/h</sub></sup></td>
             <td align="center">n/a</td>
         </tr>
                 <tr>
